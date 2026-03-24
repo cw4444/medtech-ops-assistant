@@ -1,6 +1,6 @@
 # MedTech Ops Assistant
 
-AI-powered operations assistant for MedTech startups. Covers clinical trial management, regulatory strategy, grant writing, project management, stakeholder communications, event planning, and presentations — all with Claude AI integration.
+AI-powered operations assistant for MedTech startups. Covers clinical trial management, regulatory strategy, grant writing, project management, stakeholder communications, event planning, and presentations — all with Claude AI integration. 
 
 ## Features
 
