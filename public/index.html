@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MedTech Ops Assistant</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <nav class="sidebar">
+      <h1>MedTech Ops<span>AI Operations Assistant</span></h1>
+      <div class="nav-section">
+        <h3>Overview</h3>
+        <div class="nav-item active" data-page="dashboard"><span class="icon">&#9634;</span> Dashboard</div>
+      </div>
+      <div class="nav-section">
+        <h3>Operations</h3>
+        <div class="nav-item" data-page="clinical"><span class="icon">&#9764;</span> Clinical Trials</div>
+        <div class="nav-item" data-page="regulatory"><span class="icon">&#9878;</span> Regulatory</div>
+        <div class="nav-item" data-page="grants"><span class="icon">&#9733;</span> Grant Writing</div>
+        <div class="nav-item" data-page="projects"><span class="icon">&#9776;</span> Projects</div>
+        <div class="nav-item" data-page="stakeholders"><span class="icon">&#9823;</span> Stakeholders</div>
+        <div class="nav-item" data-page="events"><span class="icon">&#9788;</span> Events</div>
+        <div class="nav-item" data-page="presentations"><span class="icon">&#9655;</span> Presentations</div>
+      </div>
+    </nav>
+    <main class="main" id="content"></main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

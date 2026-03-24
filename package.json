@@ -1,0 +1,23 @@
+{
+  "name": "medtech-ops-assistant",
+  "version": "1.0.0",
+  "description": "AI-powered operations assistant for MedTech startups — clinical trials, regulatory, grants, stakeholders, events & project management",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "medtech",
+    "operations",
+    "clinical-trials",
+    "regulatory",
+    "grant-writing"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.80.0",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
