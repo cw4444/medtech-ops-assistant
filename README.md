@@ -131,4 +131,4 @@ Each module has standard CRUD endpoints plus AI-powered generation:
 
 ## License
 
-MIT
+This software is currently not licensed for commercial use. If you’d like to use this in a business setting or install it professionally, please contact me at cw4444@gmail.com
