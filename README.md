@@ -128,9 +128,3 @@ Each module has standard CRUD endpoints plus AI-powered generation:
 - **AI:** Claude API via `@anthropic-ai/sdk`
 - **Storage:** JSON files (no database needed)
 - **Config:** dotenv
-
-## License
-
-This project is proprietary. You may not use, copy, modify, redistribute, deploy, or install it for commercial or client use without prior written permission.
-
-Commercial licenses are available. For business use, professional installation, or deployment enquiries, contact me
